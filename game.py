@@ -7,8 +7,6 @@ import tensorflow as tf
 import random
 
 
-
-
 @st.cache_resource
 def load_model():
     return tf.keras.models.load_model('model.h5')
@@ -61,6 +59,8 @@ def game():
     model = load_model()
     if 'score' not in st.session_state:
         st.session_state['score']={st.session_state['name']:0,'Bot':0}
+    if st.session_state['name'] not in st.session_state['score']:
+        st.session_state['score'][st.session_state['name']]=0
 
     st.markdown(
         """
