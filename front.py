@@ -53,7 +53,7 @@ def get_inp():
 
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.image("gaming.gif")
+        st.image("assets/gaming.gif")
         name = st.text_input("Enter your User Name")
         rounds = st.number_input("Enter total number of rounds to be played", min_value=5, step=1)
 
