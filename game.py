@@ -114,7 +114,7 @@ def game():
     
     if st.session_state.get('round', 1) == 0:
         with col2:
-            st.image("game_over.gif")
+            st.image("assets/game_over.gif")
 
             player_name = st.session_state.get('name', 'Player')
             scores = st.session_state.get('score', {player_name: 0, 'Bot': 0})
@@ -156,7 +156,7 @@ def game():
                 st.info("📤 Please capture an image to classify.")
 
         with col3:
-            st.image("bot.gif")
+            st.image("assets/bot.gif")
             if uploaded_file and hand is not None:
                 bot_move = bot()
                 st.success(f"Bot: {bot_move}")
