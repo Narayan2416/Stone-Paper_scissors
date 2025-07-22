@@ -1,6 +1,7 @@
 ## 📸 Screenshot
 
-![UI Screenshot](assets/screenshot.png)
+(![Uploading Screenshot From 2025-07-22 17-07-41.png…]()
+)
 
 ---
 
