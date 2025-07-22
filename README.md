@@ -1,6 +1,7 @@
 ## 📸 Screenshot
 
-![Streamlit Game UI](screenshot.png)
+![Streamlit Game UI](![Uploading Screenshot From 2025-07-22 17-07-41.png…]()
+)
 
 ---
 
