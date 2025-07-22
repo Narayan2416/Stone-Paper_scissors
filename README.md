@@ -1,6 +1,6 @@
 ## 📸 Screenshot
 
-![Streamlit Game UI](https://github.com/Narayan2416/Stone-Paper_scissors/issues/1)
+![image]([https://github.com/Narayan2416/Stone-Paper_scissors/issues/1)](https://github.com/Narayan2416/Stone-Paper_scissors/issues/1)
 
 ---
 
