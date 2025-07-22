@@ -1,6 +1,6 @@
 ## 📸 Screenshot
 
-![image]([https://github.com/Narayan2416/Stone-Paper_scissors/issues/1)](https://github.com/Narayan2416/Stone-Paper_scissors/issues/1)
+![Game UI](https://user-images.githubusercontent.com/107698000/328763011-8e6d8b79-9fcd-4b3a-b0e7-e9cf3824b0c1.png)
 
 ---
 
