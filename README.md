@@ -34,14 +34,12 @@ This project showcases a real-time hand gesture recognition system built using *
 - **Python** – Implementation and logic
 
 ---
-
 ## 📥 Clone This Repository
 
 ```bash
 git clone https://github.com/Narayan2416/Stone-Paper_scissors.git
 cd Stone-Paper_scissors
 
-__##__ __Run The APP__
 
 streamlit run main_app.py
 
