@@ -164,7 +164,7 @@ def game():
                 st.session_state['round'] -= 1
             else:
                 st.success("---")
-
+    st.subheader(f"ROUND  :  {st.session_state['round_perm']-st.session_state['round']+1}")
     st.dataframe(st.session_state['score'])
 
     if st.button(label='Home'):
