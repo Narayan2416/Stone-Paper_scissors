@@ -63,10 +63,11 @@ def get_inp():
         vali = st.button(label='Submit')
         st.markdown('</div>', unsafe_allow_html=True)
 
-        if vali and name and rounds:
-            st.session_state['name'] = name
-            st.session_state['round'] = rounds
-            st.session_state['page']='game'
-        else:
-            st.error("Fill the Columns")
+        if vali:
+            if name and rounds:
+                st.session_state['name'] = name
+                st.session_state['round'] = rounds
+                st.session_state['page']='game'
+            else:
+                st.error("Fill the Columns")
 
