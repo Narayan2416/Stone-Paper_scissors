@@ -1,7 +1,6 @@
 ## 📸 Screenshot
 
-![Streamlit Game UI](![Uploading Screenshot From 2025-07-22 17-07-41.png…]()
-)
+![Streamlit Game UI](https://github.com/Narayan2416/Stone-Paper_scissors/issues/1)
 
 ---
 
